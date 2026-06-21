@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Node.js-20.x-green?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/Deployed%20On-Vercel-black?style=for-the-badge&logo=vercel"/>
   <img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram"/>
-  <img src="https://img.shields.io/github/license/MNTGXO/Auto-Forward-Bot?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/license/MN-BOTS/MN-Auto-Forward-Bot?style=for-the-badge"/>
 </p>
 
 A lightweight, serverless Telegram bot that automatically forwards messages between channels — silently, without the "Forwarded From" tag. Deploy in minutes on Vercel with zero server management.
@@ -34,7 +34,7 @@ cd Auto-Forward-Bot
 
 ### 2. Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MNTGXO/Auto-Forward-Bot)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MN-BOTS/MN-Auto-Forward-Bot)
 
 Or via CLI:
 
